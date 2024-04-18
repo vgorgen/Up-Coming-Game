@@ -1,5 +1,7 @@
 # Our New 3D Game - Game README
 
+![_308737e4-d5f8-4ee3-ad45-c5b5424120eb](https://github.com/vgorgen/Up-Coming-Game/assets/92218276/6585326d-826f-4ea8-98f7-cf68d5601213)
+
 
 ## Table of Contents
 
